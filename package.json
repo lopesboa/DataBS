@@ -1,0 +1,21 @@
+{
+  "name": "apdevice",
+  "version": "1.0.0",
+  "description": "mongo database for apdevices",
+  "main": "app.js",
+  "scripts": {
+    "test": "node run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Ap01Device"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Aurio Pinto",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^3.4.0"
+  }
+}
